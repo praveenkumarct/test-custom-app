@@ -14,7 +14,8 @@ const config = {
 
     production: {
       applicationId: 'cl5znqcbz15470901zs2licfhxx',
-      url: 'http://test-custom-app-praveenkumarct.vercel.app/',
+      url: 'https://test-custom-app-praveenkumarct.vercel.app/',
+
     },
   },
 
